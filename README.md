@@ -2,8 +2,10 @@
 Docker를 사용한 서버 배포 
 
 
+
 사용 언어
 - JAVA 8
+
 
 
 사용 기술
@@ -13,9 +15,11 @@ Docker를 사용한 서버 배포
 - H2
 
 
+
 라이브러리
 - lombok
 - gradle
+
 
 
 devOps
