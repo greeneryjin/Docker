@@ -1,4 +1,4 @@
-# Docker-app
+# Docker
 Docker를 사용한 서버 배포 
 
 
