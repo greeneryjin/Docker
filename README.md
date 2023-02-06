@@ -26,4 +26,3 @@ devOps
 - AWS EC2
 - nginx
 - Docker
-- gitAction
