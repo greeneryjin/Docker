@@ -14,13 +14,13 @@ Docker를 사용한 서버 배포
 - spring-security
 - H2
 - Mysql
-- react
 ```
 
 라이브러리
 ```
 - lombok
 - gradle
+- react
 ```
 
 devOps
